@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """This is the amenity class"""
 from models.base_model import BaseModel, Base
 from models.place import place_amenity
