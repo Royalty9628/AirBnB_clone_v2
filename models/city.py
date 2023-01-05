@@ -15,4 +15,4 @@ class City(BaseModel, Base):
                           cascade='all, delete-orphan')
     else:
         name = ''
-        state_id = '
+        state_id = ''
