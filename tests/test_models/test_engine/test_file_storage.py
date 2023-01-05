@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """test for file storage"""
 import unittest
 import pep8
