@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """This is the place class"""
 from os import getenv
 import models
