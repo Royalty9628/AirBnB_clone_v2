@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """This is the review class"""
 from models.base_model import BaseModel, Base
 from sqlalchemy import Column, String, ForeignKey
