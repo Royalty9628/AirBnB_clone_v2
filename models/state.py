@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """This is the state class"""
 from models.base_model import BaseModel, Base
 from sqlalchemy.ext.declarative import declarative_base
